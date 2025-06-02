@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodSugarDiary", "BloodSugarDiary.csproj", "{22F18881-B003-40C1-AED6-16C897634E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodSugarClassLibrary", "..\BloodSugarClassLibrary\BloodSugarClassLibrary.csproj", "{6BA6C906-7572-465E-9DA2-F8EF10561965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F18881-B003-40C1-AED6-16C897634E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F18881-B003-40C1-AED6-16C897634E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F18881-B003-40C1-AED6-16C897634E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F18881-B003-40C1-AED6-16C897634E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA6C906-7572-465E-9DA2-F8EF10561965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA6C906-7572-465E-9DA2-F8EF10561965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA6C906-7572-465E-9DA2-F8EF10561965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA6C906-7572-465E-9DA2-F8EF10561965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB8B4BC6-3BF3-48BE-97A3-965CFA261819}
+	EndGlobalSection
+EndGlobal
