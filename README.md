@@ -24,8 +24,8 @@ A WindowsForms application for tracking blood sugar measurements, using Entity F
 
 ### Prerequisites
 
-- Visual Studio 2019 vagy újabb (ajánlott: 2022)
-- .NET Framework 4.7.2 vagy újabb
+- Visual Studio 2019 newer (recommended: 2022)
+- .NET Framework 4.7.2 or newer
 - SQL Server Express LocalDB (usually automatically installed with Visual Studio)
 
 ### Installation Steps
